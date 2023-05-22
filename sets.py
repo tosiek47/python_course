@@ -11,6 +11,7 @@ dishes = {"bowl", "plate", "cup", "knife"}
 #print(dishes.difference(utensils))
 
 #for x in dinner_table:
-#    print(x)
+    print(x)
 
-print(utensils.intersection(dishes))
+#print(utensils.intersection(dishes))
+print(utensils)
